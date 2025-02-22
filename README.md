@@ -19,10 +19,12 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+<img width="788" alt="image" src="https://github.com/user-attachments/assets/20cc3970-3e2a-4af9-9cf7-340143e2633e" />
 
-Every screenshot should have some text explaining what the screenshot is about.
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/e34f268d-9d0f-457f-a8de-ce4560fe51bd" />
 
-Example below.
+Splunk installed and indexer allready in place
 
-*Ref 1: Network Diagram*
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/4363a81f-2828-4e2c-bd33-8fd9602c7305" />
+
+Wazuh installed and deployed on endpoints
